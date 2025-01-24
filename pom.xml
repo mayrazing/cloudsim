@@ -21,7 +21,6 @@
 
     <modules>
         <module>modules/cloudsim</module>
-        <module>modules/cloudsim-examples</module>
     </modules>
 
     <dependencyManagement>
